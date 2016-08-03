@@ -1,0 +1,3 @@
+字符串的排列
+用C++写一个函数, 如 Foo(const char *str), 打印出 str 的全排列,
+如 abc 的全排列: abc, acb, bca, dac, cab, cba
